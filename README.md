@@ -2,13 +2,14 @@
 
 ![screenshot](images/20260215101059.png)
 
-A lightweight utility for Android TV that gives you a **1-click UI** to connect/disconnect Bluetooth devices, or complete **ADB automation** support.
+A lightweight utility for Android TV and Android phones that gives you a **1-click UI** to connect/disconnect Bluetooth devices, or complete **ADB automation** support.
 
 ## Features
 
 - **1-Click Connect:** Simple UI to instantly toggle connections from your TV.
 - **ADB Automation:** Trigger connections/disconnections via terminal or automation scripts (Tasker, Home Assistant).
 - **Recent Sorting:** Automatically sorts paired devices by most recently used.
+- **Universal Compatibility:** Works on Android TV and Android phones (Android 8.0+).
 - **Low Overhead:** Minimal impact on system resources and stays ready across restarts.
 
 ## Usage
